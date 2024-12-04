@@ -83,6 +83,9 @@ button:hover,
 button:focus {
     background-color: #404BBF;
 }
+/* #region section-2 */
+.section-dva 
+.item-li-dwa
 .zgldva {
         font-weight: 500;
         font-size: 20px;
@@ -97,3 +100,4 @@ button:focus {
         letter-spacing: 0.02em;
         color: #434455;
 }
+/* #endregion */
