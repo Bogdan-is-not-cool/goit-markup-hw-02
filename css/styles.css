@@ -1,4 +1,4 @@
-body {
+.vse {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
@@ -51,7 +51,10 @@ button {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        font-style: normal;
+
+}
+.shapka {
+    font-style: normal;
 }
 .add-item:hover,
 .add-item:focus {
