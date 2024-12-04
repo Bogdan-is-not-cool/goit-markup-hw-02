@@ -1,5 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
 }
 
 a {
@@ -49,6 +51,7 @@ button {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style: normal;
 }
 .add-item:hover,
 .add-item:focus {
@@ -57,7 +60,7 @@ button {
 .main-h1 {
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #ffffff;
@@ -65,7 +68,7 @@ button {
 .section-1 {
     background-color: #2e2f42;
 }
-.button {
+button {
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -73,8 +76,8 @@ button {
         color: #ffffff;
         background-color: #4D5AE5
 }
-.button:hover,
-.button:focus {
+button:hover,
+button:focus {
     background-color: #404BBF;
 }
 .section-2-h3 {
