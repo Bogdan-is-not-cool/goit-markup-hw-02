@@ -60,7 +60,7 @@ ul {
 .add-item:focus {
     color: #404bbf;
 }
-.main-h1 {
+.zagolovokodin {
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -68,7 +68,7 @@ ul {
         text-align: center;
         color: #ffffff;
 }
-.glava1 {
+.glava-1 {
     background-color: #2e2f42;
 }
 .knopka {
