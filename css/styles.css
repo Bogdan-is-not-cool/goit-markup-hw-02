@@ -113,11 +113,14 @@ button:focus {
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .section-tree-ul 
 
-.section-li 
+.section-li {
+    background-color: #ffffff;
+}
 
 .section-tree-h_tree {
         font-weight: 500;
